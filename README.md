@@ -1,12 +1,12 @@
-Modelo de integração com o webservice dos Correios utilizando a linguagem PHP,  para calcular preço de frete e prazo de entrega em encomendas do tipo SEDEX, SEDEX 12, SEDEX 10, SEDEX HOJE e PAC.
+Integration model with Correios's (brazilian post office) webservice using PHP to calculate freight prices and delivery time in SEDEX, SEDEX 12, SEDEX 10, SEDEX HOJE and PAC orders.
 
-### Pré-requisitos globais:
+### Global pre-requisites:
 - Composer
 - Curl
 - PHP ^ 7.2
 
-### Instalação
+### Installation
 `composer install`
 
-### Para rodar o projeto
+### Running the project
 `php calcular.php`
